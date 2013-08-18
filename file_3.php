@@ -1,4 +1,4 @@
 <?php
-echo "gege1";
-echo "gege2";
+echo "jej";
+echo "";
 ?>
