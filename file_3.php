@@ -1,4 +1,3 @@
 <?php
-echo "jej";
-echo "";
+echo "jejf";
 ?>
